@@ -1,0 +1,70 @@
+.titulo{
+    color: aliceblue;
+    font-size: 70px;
+}
+.iconos{
+    width: 35px;   
+    margin-right: 50px; 
+}
+th{
+    margin-right: 30px;
+}
+.categorias{
+    margin-right:70px;
+    color: aliceblue;
+}
+.linea{
+    color: aliceblue;
+}
+body{
+    background-color: rgb(40, 40, 145);
+}
+.image{
+    display: flex;
+    margin-left: 3px;
+    width: 390px;
+    margin-top: 10px;
+
+}
+.segundar{
+    display: flex;
+    margin-left: 3px;
+    width: 390px;
+    margin-top: 10px;
+}
+.tercera{
+    display: flex;
+    margin-left: 3px;
+    width: 390px;
+    margin-top: 10px;
+}
+#ventana{
+    display: flex;
+}
+#icon{
+    margin-top: 190px;
+}
+#icon2{
+    margin-top: 80px;
+}
+#icon3{
+    margin-top: 80px;
+}
+#icon4{
+    margin-top: 80px;
+}
+#icon5{
+    margin-top: 80px;
+}
+#icon5{
+    margin-top: 80px;
+}
+#icon6{
+    margin-top: 80px;
+}
+#icon7{
+    margin-top: 80px;
+}
+#icon8{
+    margin-top: 80px;
+}
